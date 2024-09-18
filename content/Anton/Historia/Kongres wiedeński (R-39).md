@@ -1,9 +1,3 @@
----
-title: Kongres wiedeński (R-39)
-draft: false
-tags:
----
-
 Europa po abdykacji Napoleona była pogrążona w **politycznym chaosie** bo powstały nowe państwa, inne rozpadły się lub zmieniły swoje granice
 Aby uspokoić ten chaos zwołany był kongres w **Wiedniu jesienią 1814r.**. Na obradach kongresu wzięli udział przedstawiciele 16 państw, najważniejszą rolę odgrywały:
 - Rosja

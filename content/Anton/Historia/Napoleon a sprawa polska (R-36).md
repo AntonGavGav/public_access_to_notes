@@ -1,8 +1,3 @@
----
-title: Napoleon a sprawa polska (R-36)
-draft: false
-tags:
----
 #### Od rozpaczy do nadziei
 Upadek Rzeczypospolitej był wstrząsem dla mieszkańców, którzy musieli się odnaleźć w nowych warunkach ustrojowych i politycznych, *zwłaszcza szlachta*, która stałą się zwykłymi poddanymi.
 

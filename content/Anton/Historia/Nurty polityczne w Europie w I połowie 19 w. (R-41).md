@@ -1,8 +1,3 @@
----
-title: Nurty polityczne w Europie w I połowie 19 w. (R-41)
-draft: false
-tags:
----
  "Włochy": Mazzini i "Młode Włochy". Wałka o zjednoczenie Włoch
 
 Nurty polityczne:

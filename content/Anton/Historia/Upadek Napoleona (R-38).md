@@ -1,8 +1,3 @@
----
-title: Upadek Napoleona (R-38)
-draft: false
-tags:
----
 Sytuacja po 1809:
 - pozycję Napoleona wzmocniły się przez sojusz z cesarzem Austrii, którego córkę Bonaparte poślubił.
 - WB pozostawała w stanie wojny z Francją

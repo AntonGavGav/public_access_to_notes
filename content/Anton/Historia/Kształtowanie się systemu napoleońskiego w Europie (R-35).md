@@ -1,8 +1,3 @@
----
-title: Kształtowanie się systemu napoleońskiego w Europie (R-35)
-draft: false
-tags:
----
 W ostatnich latach 18 w. została w Europie **równowaga sił** - sytuacja, w której żadne z mocarstw nie miało wyraźnej przewagi na kontynencie. 
 We Francji nadal panuje napięcie, rządzi **Dyrektoriat**. Ożywiły się nadzieje rojalistów(zwolenników monarchii) na przywrócenie monarchii.
 

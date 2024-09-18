@@ -1,9 +1,3 @@
----
-title: Księstwo Warszawskie (R-37)
-draft: false
-tags:
----
-
 #### Napoleońskie państwo nad Wisłą
 Rokowania pokojowe prowadzono w **Tylży** nad Niemnem. 
 - Pokonany Król Prus nie odgrywał w nich ważnej roli
